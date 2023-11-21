@@ -15,5 +15,5 @@ const connectDB = async () => {
     throw error;
   }
 };
-//
+//test
 export default connectDB;
